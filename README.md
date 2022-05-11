@@ -1,12 +1,8 @@
 ![Header](https://github.com/VladyslavFugol/vladyslavfugol/blob/main/assets/header-github.png)
 
-## I'm a Frontend Developer
+## Hello, I am a front-end developer.
 
-### About me
-
-#### Hello, I am a front-end developer.
-
-#### Skills:
+### Skills:
 - HTML
 - CSS
 - JavaScript(ES6+)
