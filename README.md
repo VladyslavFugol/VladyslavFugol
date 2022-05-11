@@ -2,12 +2,26 @@
 
 ## I'm a beginner Frontend Developer
 
-Skills
+### About me
 
-### Languages and Tools
-![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=Redux)
+#### Hello, I am a front-end developer.
+
+#### Skills:
+- HTML
+- CSS
+- JavaScript(ES6+)
+- React
+- HTTPS/WebSockets
+- Knowledge of global state management in React (Redux and similar libraries)
+- Knowledge of works with forms in React (Formik,react-hook-forms and similar libraries)
+- Knowledge of the software development methodologies (Agile, Scrum, Kanban)
+- English level: Intermediate
+
+#### Successful work in a team and individually.
+
+### Contacts
+[![LinkedIn](https://img.shields.io/badge/-linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/vladyslav-fugol/)
+[![Telegram](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/fugol_v)
+[![Instagram](https://img.shields.io/badge/-instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/fugol_v/)
+
 
